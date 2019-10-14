@@ -4,3 +4,5 @@
 # install depenencies
 npm install
 ```
+
+![](movie-search.gif)
